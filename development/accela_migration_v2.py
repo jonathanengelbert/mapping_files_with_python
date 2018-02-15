@@ -76,7 +76,7 @@ for subdir, dirs, files in os.walk(rootdir):
 
                 output_writer.writerow([path, doc_name, record_name])
 
-
+#Handles records prior to 2014, excluding 1979 and 1981
 
             elif "1979" not in subdir\
             and "1981" not in subdir \
