@@ -6,7 +6,7 @@ This script was originally written for the Urban Planning Department of the City
 
 This script may then, be easily modified to accommodate the mapping of folder structures and files, for similar tasks, such as migration to different systems, or batch modification of files/folders.
 
-## Last Modified:
+## Last Modified
 
 The final version of this script was released 02/20/2018.
 Subsequent updates may follow as needed.
@@ -23,7 +23,7 @@ Script has also been successfully tested in both Mac OS and Windows(XP, 7).
 
 ### Installing
 
-No instalation required.
+No installation required.
 
 ## Authors
 
